@@ -1,18 +1,13 @@
  The Cave Toolbox, incl. bonus VLC plugin. V6
- Requires Autohotkey & 1080p screen to run (optional Capture2Text)
+ Requires Autohotkey & 1080p screen to run (includes Capture2Text)
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  How to Use: 
-    1. Download https://www.autohotkey.com/ 
-    2. install it 
-    3. Download https://sourceforge.net/projects/capture2text/ optional but recommended 
-    4. Download the script archive 
-    5. extract the script and capture2text archives 
-    6. put capture2text folder inside the toolbox folder
-    7. open the .ahk file in any editor and check if keyArray has your hotkeys included (standard is grid layout)
-    8. save the file if you made changes and doubleclick the file to run it
-    9. it shows an icon in the system tray where you can turn it back off or just press the pause key to terminate it
-    10. ... profit 
+    1. Download and install https://www.autohotkey.com/ 
+    2. Download and Unpack the Latest Release of the Toolbox
+    3. open the .ahk file in any editor and check if keyArray has your hotkeys included (standard is grid layout)
+    4. save the file if you made changes and doubleclick the file to run it
+    5. it shows an icon in the system tray where you can turn it back off or just press the pause key to terminate it
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  available keys:: backspace; u; ü; ö; ä, alt , numpad mul
